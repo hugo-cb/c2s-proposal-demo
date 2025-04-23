@@ -1,16 +1,16 @@
 # Dashboard
 
-![01](docs/image/c2s-hugo-01.png)
+![01](docs/images/c2s-hugo-01.jpg)
 
 # Engineering
 
-![02](docs/image/c2s-hugo-02.png)
+![02](docs/images/c2s-hugo-02.jpg)
 
 
 # Accuracy
 
-![03](docs/image/c2s-hugo-03.png)
+![03](docs/images/c2s-hugo-01.jpg)
 
 # Business
 
-![04](docs/image/c2s-hugo-04.png)
+![04](docs/images/c2s-hugo-01.jpg)
