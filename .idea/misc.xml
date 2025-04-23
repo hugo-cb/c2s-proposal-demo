@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Poetry (AllWhatsPy)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (c2s-hugo)" project-jdk-type="Python SDK" />
+</project>
